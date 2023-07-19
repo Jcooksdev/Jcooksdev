@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="[https://linkedin.com/in/Josh](https://www.linkedin.com/in/joshua-cooks-aa94a91b7/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Josh, an <a href="(https://www.linkedin.com/in/joshua-cooks-aa94a91b7/)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
