@@ -17,4 +17,4 @@
 
 
 
-[linkedin]:https://www.linkedin.com/in/joshua-cooks-aa94a91b7/
+[linkedin]:[https://www.linkedin.com/in/joshua-cooks-1008/]
